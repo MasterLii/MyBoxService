@@ -1,0 +1,978 @@
+[ 2015-12-06T22:08:01+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser//register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:08:01+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/sysnotice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.077005s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.077005s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:08:01+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:08:02+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0610s ]
+SQL: SELECT * FROM `bs_user` WHERE ( username='bbb' and password='bb' ) LIMIT 1   [ RunTime:0.0610s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-06T22:08:05+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `bs_user` WHERE ( username='bbb' and password='bbb' ) LIMIT 1   [ RunTime:0.0580s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:08:27+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0578s ]
+SQL: SELECT * FROM `bs_user` WHERE ( username='aaaaaa' and password='aaaaaa' ) LIMIT 1   [ RunTime:0.0558s ]
+SQL: UPDATE `bs_user` SET `username`='aaaaaa',`password`='aaaaaa',`lastlogin`='2015-12-06 22:08:27',`logintime`='4',`mcode`='1079375538',`expiretime`='2015-12-08 21:13:01',`status`='1',`email`='aaa@qq.com' WHERE `id` = 15 [ RunTime:0.0492s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-06T22:08:28+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/notice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:12:05+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/sysnotice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:12:06+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser//register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:12:08+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-06T22:12:17+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/sysnotice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:12:18+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser//register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-06T22:12:18+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `bs_user` WHERE ( username='aaaaaa' and password='aaaaaa' ) LIMIT 1   [ RunTime:0.0560s ]
+SQL: UPDATE `bs_user` SET `username`='aaaaaa',`password`='aaaaaa',`lastlogin`='2015-12-06 22:12:18',`logintime`='4',`mcode`='1079375538',`expiretime`='2015-12-08 21:13:01',`status`='1',`email`='aaa@qq.com' WHERE `id` = 15 [ RunTime:0.0560s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-06T22:12:19+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:12:19+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/notice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:12:21+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/wows_showing?category=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0610s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) LIMIT 1   [ RunTime:0.0590s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0590s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:12:22+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_show?category=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+ERR: 非法操作:wows_show
+
+[ 2015-12-06T22:12:59+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser//register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:13:00+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:13:01+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/sysnotice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:13:01+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.3120s ]
+SQL: SELECT * FROM `bs_user` WHERE ( username='aaaaaa' and password='aaaaaa' ) LIMIT 1   [ RunTime:0.0560s ]
+SQL: UPDATE `bs_user` SET `username`='aaaaaa',`password`='aaaaaa',`lastlogin`='2015-12-06 22:13:01',`logintime`='4',`mcode`='1079375538',`expiretime`='2015-12-08 21:13:01',`status`='1',`email`='aaa@qq.com' WHERE `id` = 15 [ RunTime:0.0570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:13:02+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/notice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-06T22:13:02+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/wows_showing?category=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0610s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) LIMIT 1   [ RunTime:0.0590s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0620s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0600s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0610s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-12-06T22:13:11+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_show?category=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+ERR: 非法操作:wows_show
+
+[ 2015-12-06T22:13:56+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/sysnotice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:13:56+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser//register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-12-06T22:13:56+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-12-06T22:13:57+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `bs_user` WHERE ( username='aaaaaa' and password='aaaaaa' ) LIMIT 1   [ RunTime:0.0570s ]
+SQL: UPDATE `bs_user` SET `username`='aaaaaa',`password`='aaaaaa',`lastlogin`='2015-12-06 22:13:57',`logintime`='4',`mcode`='1079375538',`expiretime`='2015-12-08 21:13:01',`status`='1',`email`='aaa@qq.com' WHERE `id` = 15 [ RunTime:0.0570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-06T22:13:58+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/notice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:13:59+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/wows_showing?category=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0570s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) LIMIT 1   [ RunTime:0.0560s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:14:01+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0570s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =3 ) LIMIT 1   [ RunTime:0.0560s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0570s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0570s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =3 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-12-06T22:14:02+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0600s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =4 ) LIMIT 1   [ RunTime:0.0600s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0600s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0580s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =4 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:14:03+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0570s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =5 ) LIMIT 1   [ RunTime:0.0570s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0570s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =5 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0560s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:14:04+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0598s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) LIMIT 1   [ RunTime:0.0724s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0472s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0744s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0610s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-06T22:14:05+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0610s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =3 ) LIMIT 1   [ RunTime:0.0570s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0570s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =3 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:14:05+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0580s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =4 ) LIMIT 1   [ RunTime:0.0550s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0570s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =4 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:14:06+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0590s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =6 ) LIMIT 1   [ RunTime:0.0550s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =6 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-06T22:15:09+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/sysnotice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:15:09+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser//register
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:15:09+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:15:11+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `bs_user` WHERE ( username='aaaaaa' and password='aaaaaa' ) LIMIT 1   [ RunTime:0.0640s ]
+SQL: UPDATE `bs_user` SET `username`='aaaaaa',`password`='aaaaaa',`lastlogin`='2015-12-06 22:15:11',`logintime`='4',`mcode`='1079375538',`expiretime`='2015-12-08 21:13:01',`status`='1',`email`='aaa@qq.com' WHERE `id` = 15 [ RunTime:0.0570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-12-06T22:15:12+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/notice?game=wows
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:15:13+08:00 ] 127.0.0.1 /MyBoxService/index.php/home/ser/wows_showing?category=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0710s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) LIMIT 1   [ RunTime:0.0590s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0590s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0590s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0590s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-06T22:15:15+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.1250s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =3 ) LIMIT 1   [ RunTime:0.0570s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0570s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =3 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:15:16+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0580s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =4 ) LIMIT 1   [ RunTime:0.0570s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0580s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0600s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =4 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:15:17+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0570s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =6 ) LIMIT 1   [ RunTime:0.0570s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0570s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =6 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0560s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-12-06T22:15:18+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0580s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =3 ) LIMIT 1   [ RunTime:0.0550s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =3 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0580s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: flag E:\www\MyBoxService\Application\Runtime\Cache\Home\196c32f9dcce57007170c70f3aae07fe.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-12-06T22:15:19+08:00 ] 127.0.0.1 /MyBoxService/index.php/Home/Ser/wows_showing?category=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [2048] Declaration of Home\Controller\SerController::show() should be compatible with Think\Controller::show($content, $charset = '', $contentType = '', $prefix = '') E:\www\MyBoxService\Application\Home\Controller\SerController.class.php 第 360 行.
+SQL: SHOW COLUMNS FROM `bs_plugin` [ RunTime:0.0580s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) LIMIT 1   [ RunTime:0.0560s ]
+SQL: SHOW COLUMNS FROM `bs_category` [ RunTime:0.0570s ]
+SQL: SELECT * FROM `bs_category`  [ RunTime:0.0560s ]
+SQL: SELECT * FROM `bs_plugin` WHERE ( 1 and status=1 and gid=3 and cid =2 ) ORDER BY id desc LIMIT 0,5   [ RunTime:0.0570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+

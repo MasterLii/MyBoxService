@@ -1,0 +1,12 @@
+[ 2015-07-31T21:25:11+08:00 ] 127.0.0.1 /BoxService/index.php/ser/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ser
+
+[ 2015-07-31T22:48:56+08:00 ] 127.0.0.1 /BoxService/index.php/ser/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:Ser
+

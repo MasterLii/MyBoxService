@@ -1,0 +1,2260 @@
+[ 2015-09-06T13:00:37+08:00 ] 127.0.0.1 /BoxService/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109201s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.031200s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.031200s ]
+
+[ 2015-09-06T13:00:38+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.014000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015001s ]
+
+[ 2015-09-06T13:00:38+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:01:10+08:00 ] 127.0.0.1 /BoxService/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:01:11+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:01:11+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:01:48+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: SQLSTATE[HY000] [2002] ÓÉÓÚÁ¬½Ó·½ÔÚÒ»¶ÎÊ±¼äºóÃ»ÓÐÕýÈ·´ð¸´»òÁ¬½ÓµÄÖ÷»úÃ»ÓÐ·´Ó¦£¬Á¬½Ó³¢ÊÔÊ§°Ü¡£
+
+
+[ 2015-09-06T13:01:48+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0550s ]
+NOTIC: [8] Undefined index: discount E:\www\BoxService\ThinkPHP\Library\Think\Model.class.php ç¬¬ 1208 è¡Œ.
+SQL: SELECT * FROM `bs_admin` WHERE ( username='admin' ) LIMIT 1   [ RunTime:0.0530s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:01:48+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:01:48+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-06T13:02:17+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:02:17+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:02:28+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0130s ]
+NOTIC: [8] Undefined index: discount E:\www\BoxService\ThinkPHP\Library\Think\Model.class.php ç¬¬ 1208 è¡Œ.
+SQL: SELECT * FROM `bs_admin` WHERE ( username='admin' ) LIMIT 1   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:02:30+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046602s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:02:30+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:02:30+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:02:31+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:02:32+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:02:36+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_admin` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT * FROM `bs_admin` ORDER BY id desc LIMIT 0,15   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:02:37+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:03:01+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Admin/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bs_admin` WHERE `username` = 'test' LIMIT 1   [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_admin` (`username`,`password`,`action`,`money`,`discount`,`sellcount`,`sellmoney`,`status`) VALUES ('test','test','0','2000','3','0','0','1') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:03:02+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Admin/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_admin` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT * FROM `bs_admin` ORDER BY id desc LIMIT 0,15   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:03:09+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2015-09-06T13:03:10+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:03:10+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:03:22+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+NOTIC: [8] Undefined index: discount E:\www\BoxService\ThinkPHP\Library\Think\Model.class.php ç¬¬ 1208 è¡Œ.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:03:25+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:03:27+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/codeImg/0.8216686532832682
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:03:43+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+NOTIC: [8] Undefined index: discount E:\www\BoxService\ThinkPHP\Library\Think\Model.class.php ç¬¬ 1208 è¡Œ.
+SQL: SELECT * FROM `bs_admin` WHERE ( username='test' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:03:44+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:03:44+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:03:44+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:03:45+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:03:45+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0120s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0100s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:03:46+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:04:00+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `bs_admin` SET `username`='test',`password`='test',`action`='0',`money`='1550',`sellcount`='0',`sellmoney`='0',`discount`='3',`status`='1' WHERE `id` = 7 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0080s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WOTOJG6170B1E4V5LHL','365','2015-09-06 13:04:00','7') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WOTSOC19GNE8VG7CWAO','365','2015-09-06 13:04:00','7') [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:04:01+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0120s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:04:04+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:04:32+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:04:43+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0060s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: UPDATE `bs_admin` SET `username`='test',`password`='test',`action`='0',`money`='1502',`sellcount`='0',`sellmoney`='0',`discount`='3',`status`='1' WHERE `id` = 7 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0070s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('YUEAOVY1PA9I7HTBAG8','30','2015-09-06 13:04:43','7') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('YUE73OR2Y8C0PSN990M','30','2015-09-06 13:04:43','7') [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.004001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:04:44+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:04:45+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:06:41+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0040s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:06:42+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:06:43+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:06:43+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0080s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0080s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:09:16+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0050s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:09:16+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:09:18+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2015-09-06T13:09:20+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:09:34+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+
+[ 2015-09-06T13:09:59+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:10:02+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:10:03+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0050s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0050s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:10:05+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:10:24+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-09-06T13:11:26+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0080s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:11:27+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:11:41+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+
+[ 2015-09-06T13:11:44+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:11:46+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:12:03+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: UPDATE `bs_admin` SET `username`='test',`password`='test',`action`='0',`money`='1412',`sellcount`='0',`sellmoney`='0',`discount`='3',`status`='1' WHERE `id` = 7 [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0060s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('NIAN1ACBWCNWXDK1R0OF','365','2015-09-06 13:12:03','7') [ RunTime:0.0020s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('NIANYA1LL3U5WE8VCK2P','365','2015-09-06 13:12:03','7') [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.002000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:12:04+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0070s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:12:05+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:12:20+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0060s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` WHERE ( 1 and createrid =7 ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT * FROM `bs_card` WHERE ( 1 and createrid =7 ) ORDER BY id desc LIMIT 0,50   [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0050s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:12:33+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=7 ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:13:06+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:13:07+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:13:07+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/codeImg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:13:17+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Login/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0080s ]
+NOTIC: [8] Undefined index: discount E:\www\BoxService\ThinkPHP\Library\Think\Model.class.php ç¬¬ 1208 è¡Œ.
+SQL: SELECT * FROM `bs_admin` WHERE ( username='admin' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:13:18+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:13:18+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/top
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:13:18+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:13:19+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/left
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:13:26+08:00 ] 127.0.0.1 /BoxService/index.php/Home/User/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0050s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_user` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT * FROM `bs_user` ORDER BY id desc LIMIT 0,15   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:13:30+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Admin/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_admin` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT * FROM `bs_admin` ORDER BY id desc LIMIT 0,15   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:13:44+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0050s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT * FROM `bs_card` ORDER BY id desc LIMIT 0,50   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='13' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:13:45+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:13:51+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0030s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:13:59+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0050s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` LIMIT 1   [ RunTime:0.0010s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT * FROM `bs_card` ORDER BY id desc LIMIT 0,50   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='7' ) LIMIT 1   [ RunTime:0.0040s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='13' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='6' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:14:00+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2015-09-06T13:14:16+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id='1' ) LIMIT 1   [ RunTime:0.0030s ]
+SQL: UPDATE `bs_admin` SET `username`='admin',`password`='admin',`action`='1',`money`='8950',`sellcount`='1',`sellmoney`='15',`discount`='1',`status`='1' WHERE `id` = 1 [ RunTime:0.0010s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0050s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW4A8EK4FPHUDOGH9W','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWM0CN8RNRAU59NFBS','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW90P9BA13TKTRMEQQ','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWJQ836MWBNB7T5U2X','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW27BQW7WOJJO9QKGW','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWFEU6MC34BKH5OK89','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW8NTRFHRD26BV46N6','180','2015-09-06 13:14:16','1') [ RunTime:0.0020s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWU9NE0EB9THBMH9QV','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWACE0Y35DLSAVPS3A','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWKW0F9GT3Y4VVO3X3','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWXVWQU0SLQ3OIQG5W','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWHEXH83H4UGXYG425','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWISRL3XYN9OULRFIQ','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWDQ8BVLNANO8I6815','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWQR5OEMCG8GGWS590','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWEMQTDO91N7KKHFBT','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWOGNOU1AGN99FM42E','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWUS0IN3HUNOKHFM4S','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWHXGLOPSQ9OLJY9RA','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWWIEVXWRRYPIKR60X','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWWF8LHYPITH5MAIA7','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW30A73M34TL3UE2MO','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWWFMSDXKI16L5BYNO','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWF5DOWWCVOYVF6VL1','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWKARSGJ195UBKDBRW','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWYONJNH6GEGOL7BNS','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWY0442SFW5M47NJEM','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWWY0MXB9R2YA4F7S5','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW3MDQIOO7UQ2WCFR6','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW27S0CNJGD0699JSK','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW99QHOCIXE22BMBUL','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWRHG50XWGJNMU7QPW','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWAMP2BGX049H2GQOO','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW0UIAODV2CHOVFD9Y','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW7XPAOBA5YT41W4XL','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW8PO0KPM8GN697B4D','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWNA9SHR4NOA0GQTKT','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWBXXU3Y3E1R5A3X98','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW9STITQ39OY48IVYW','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWOROFPOUIA5J3PVE3','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWIOMSXDG5I73CK4DE','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWC7IOWE75IKULDIWC','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWDEB5K1HRDV0DGHXX','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWSB8AF4EQYOSF45JO','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWELWO7LQILTF0YBIK','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWMYF39LNITFMD91EH','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWS51BQXINV9DUK72U','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWUTT2SQ1KO9AYQDRO','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWMK7OL1DO74GYR1YT','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWS2SV5YN0RJ1QQUEJ','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWSNJKUP3KVTWXB9GH','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWE683QGU77EKH7J2Q','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWVL1HK9S6KX7E4QN5','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW15TLNAUNHQK2O9Q3','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW75N65001H7HIUACI','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW15ONAYENMA14U87N','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWYRE35TMPS1KEF0OW','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWIKQYFP5HFXPKDOTJ','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWB5VNUWXFNA2XDKOO','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWRJH2BLI3HUXOQUE6','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW4WJ46WPUEME1X7VL','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW5VCPPIQHT3T3OQES','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWEYXY5O8D3IJISORL','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWQ7YOPJPEUHV398G8','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWB7PB5HF0C1PXPM72','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWN1PE6TUQTA1FCCTY','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWMO3DSDK7YR5AKQ73','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWGG3CNCUVH9L6D07E','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWDI99J2QVYOIL75OU','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWR5OMPPRXCRYFRLE6','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWGALL6DMO64SA6TNE','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW3VHH9G29IVVD2ICS','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWWGIF8M93TXHS0OMV','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWOMW4BCHWOUCWIENT','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWN7V9I31USR0VAQX3','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW5XSB731MWGNDABDF','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWKFIS6LJJLBOHPCOT','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW2A5B4RI1XGX6OCWC','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWDNMTXUCS89DE26AO','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWTTG5HP3UNYB88TFO','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWJ6YB07IQD2EK3XVR','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWG4GUH6QRJ193148R','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWR5Q19JAEI7K7HOWE','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW2KRXIA806KS0HO8X','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWS7N2OL11QT2P70CW','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWSTHRNSDAYSKUQQQI','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWPER3IW4N07AKXMMB','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWYYNMGBMUOKHBU8J5','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWPLIGURDUMEI4GWPH','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWD73L74AN0PB2UTPX','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWMMWU54592G91JDYI','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWR52DO7NRHTPQPAML','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWWL21EBTIJ01D5XMM','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWW8A4YFO9R3SINHI5','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWMJHHOO2V93LLYOEW','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWS7M732QLGQN776H6','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWE36F5W4ENOHLALQM','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW01CD60VYUL62NDFK','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWWR2SXHPB92BU9ROHL','180','2015-09-06 13:14:16','1') [ RunTime:0.0010s ]
+SQL: INSERT INTO `bs_card` (`code`,`valuetime`,`createtime`,`createrid`) VALUES ('WWW8JJ5RC355CXMT77I','180','2015-09-06 13:14:16','1') [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.002000s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:14:17+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Card/lst.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `bs_card` [ RunTime:0.0050s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT COUNT(*) AS tp_count FROM `bs_card` LIMIT 1   [ RunTime:0.0020s ]
+NOTIC: [2] Invalid argument supplied for foreach() E:\www\BoxService\ThinkPHP\Library\Think\Db\Driver.class.php ç¬¬ 493 è¡Œ.
+SQL: SELECT * FROM `bs_card` ORDER BY id desc LIMIT 0,50   [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0060s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SHOW COLUMNS FROM `bs_user` [ RunTime:0.0070s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0020s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0000s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_admin` WHERE ( 1=1 AND id='1' ) LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT `username` FROM `bs_user` WHERE ( 1=1 AND id='' ) LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-09-06T13:14:18+08:00 ] 127.0.0.1 /BoxService/index.php/Home/Index/main
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `bs_admin` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `bs_admin` WHERE ( id=1 ) LIMIT 1   [ RunTime:0.0020s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+

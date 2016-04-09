@@ -1,0 +1,54 @@
+[ 2015-08-04T16:35:29+08:00 ] 127.0.0.1 /BoxService/index.php/PlugImage/27b941288a22994a1de46566ff8be070.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:PlugImage
+
+[ 2015-08-04T16:35:29+08:00 ] 127.0.0.1 /BoxService/index.php/PlugImage/d2887904a663aa0dd2b0f6459bdc5fdc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:PlugImage
+
+[ 2015-08-04T16:35:29+08:00 ] 127.0.0.1 /BoxService/index.php/PlugImage/5e2bee982d774dcf5b140aebb7c98589.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:PlugImage
+
+[ 2015-08-04T16:35:30+08:00 ] 127.0.0.1 /BoxService/index.php/PlugImage/d2887904a663aa0dd2b0f6459bdc5fdc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:PlugImage
+
+[ 2015-08-04T16:35:30+08:00 ] 127.0.0.1 /BoxService/index.php/PlugImage/27b941288a22994a1de46566ff8be070.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+ERR: 无法加载模块:PlugImage
+
+[ 2015-08-04T16:35:30+08:00 ] 127.0.0.1 /BoxService/index.php/PlugImage/5e2bee982d774dcf5b140aebb7c98589.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:PlugImage
+
+[ 2015-08-04T16:35:31+08:00 ] 127.0.0.1 /BoxService/index.php/PlugImage/d2887904a663aa0dd2b0f6459bdc5fdc.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:PlugImage
+
+[ 2015-08-04T16:35:31+08:00 ] 127.0.0.1 /BoxService/index.php/PlugImage/5e2bee982d774dcf5b140aebb7c98589.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+ERR: 无法加载模块:PlugImage
+
+[ 2015-08-04T16:35:31+08:00 ] 127.0.0.1 /BoxService/index.php/PlugImage/27b941288a22994a1de46566ff8be070.jpg
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:PlugImage
+
